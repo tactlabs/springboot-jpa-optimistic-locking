@@ -1,3 +1,5 @@
+[![HitCount](http://hits.dwyl.io/teamtact/https://github.com/teamtact/Springboot-jpa-optimistic-locking.svg)](http://hits.dwyl.io/teamtact/https://github.com/teamtact/Springboot-jpa-optimistic-locking)
+
 ## Optimistic-locking-jpa-springboot
 	
 	Optimistic locking is one way of handling concurrent write operations in database table. 
